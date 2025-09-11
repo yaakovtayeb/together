@@ -3,10 +3,9 @@ body {
     margin: 0;
     padding: 0;
     min-height: 100vh;
-    height: 100vh;
     background-color: rgb(38,80,123);
     color: white;
-    overflow: visible;
+    /* overflow: hidden; */ 
     position: relative;
     direction: rtl; /* For Hebrew text */
 }

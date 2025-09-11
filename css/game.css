@@ -2,10 +2,10 @@ body {
     font-family: 'Heebo', sans-serif;
     margin: 0;
     padding: 0;
-    height: 100vh;
+    min-height: 100vh;
     background-color: rgb(38,80,123);
     color: white;
-    overflow: hidden;
+    /* overflow: hidden; */ 
     position: relative;
 }
 
