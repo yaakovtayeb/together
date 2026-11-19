@@ -2,6 +2,9 @@
 a profile self examine game, helping presenting what type a person is.
 
 
+## ACCESS 
+One can browse to https://yaakovtayeb.github.io/together/ to start playing
+
 ## License
 
 Licensed under the [Apache License 2.0](LICENSE). It is free to use, including
